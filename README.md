@@ -3,7 +3,7 @@
 
 # Projects
 
-This section outlines the projects I've worked on as part of my ICT studies. Each project contributed to a comprehensive skill set in software development, from object-oriented design and programming to network communication and hardware interfacing.
+This section outlines the projects I've worked on as part of my ICT studies. Each project contributed to a comprehensive skill set in software development, from object-oriented design and programming to network communication and computer hardware engineering.
 
 ## [IV1350 Object-Oriented Design Project](https://github.com/danaghafour/iv1350)
 
