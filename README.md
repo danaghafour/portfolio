@@ -25,7 +25,7 @@ The course involved developing a single object-oriented program, reported in fou
 - **Summary**: The fourth seminar was about implementing exception handling and using design patterns to improve the system's architecture and design.
 - **Skills Developed**: Applying design patterns for problem-solving, implementing exception handling for reliability, and improve software quality and functionality.
 
-Each seminar was designed to build on the knowledge from the previous ones, culminating in a comprehensive understanding of object-oriented program development, from analysis through implementation and refinement.
+Every seminar was created with the intention of building on the information covered in the previous ones, leading to a full comprehension of the development of object-oriented programs, from analysis to implementation and refinement.
 
 ## [ID1018 Programming I Assignments](https://github.com/danaghafour/ID1018)
 
@@ -33,7 +33,7 @@ The ID1018 course focuses on introductory programming tasks involving data manip
 
 ### Task A1: Temperatures
 - **Summary**: Develop a program to process temperature data, including finding the minimum, maximum, and average temperatures for each week and for the entire measurement period.
-- **Skills Developed**: Data analysis, working with arrays, and basic Java programming.
+- **Skills Developed**: Working with arrays, and basic Java programming.
 
 ### Task A2: Synonyms
 - **Summary**: Implement functionality to manage a collection of synonyms, including adding, removing, and sorting synonyms and their groups.
@@ -43,17 +43,13 @@ The ID1018 course focuses on introductory programming tasks involving data manip
 - **Summary**: Work with sequences of real numbers to determine upper and lower bounds, and identify if the sequences are increasing or decreasing.
 - **Skills Developed**: Implementation of interfaces, use of arrays and linked lists, and understanding of sequences and bounds in programming.
 
-These tasks provided practical experience with the foundational concepts of programming, including data structures, algorithms, and object-oriented programming in Java.
+These tasks provided hands-on experience with the foundational concepts of programming, including data structures, algorithms, and object-oriented programming in Java.
 
 ## [IS1200 Computer Hardware Engineering Project](https://github.com/danaghafour/IS1200)
 
-This project allowed us to dive into the world of computer hardware engineering through the development and implementation of a Pong game on a PIC32 microcontroller, utilizing a ChipKIT Basic I/O Shield. The project aimed to showcase our ability to work with hardware, implement game logic, and develop a playable game that adheres to the constraints of the hardware platform.
-
 ### Mini Project: Pong Game Implementation
-- **Summary**: Implemented a Pong game for the ChipKIT uC32 microcontroller. The game supports both one and two-player modes, with gameplay displayed on the built-in OLED graphical display. Players control paddles to hit a bouncing ball, with the game detecting scores and displaying the winning player.
+- **Summary**: This course introduced us to computer hardware engineering through a hands-on project where we developed a playable Pong game on the ChipKIT uC32 microcontroller. Demonstrating our ability to navigate hardware constraints, we applied game logic to enable both single and dual-player modes. On the integrated OLED graphical display, the gameplay—which included controlled paddles to hit a bouncing ball and score detection—was vividly displayed. This project demonstrated our ability to work with hardware and to creatively implement game mechanics within the constraints of the platform. 
 - **Skills Developed**: Hardware programming, game development, input handling, and display output on a microcontroller platform.
-
-The project was a comprehensive exercise in both hardware and software engineering, combining programming skills with an understanding of microcontroller capabilities and limitations. Through this project, we gained valuable experience in developing interactive applications on embedded systems.
 
 ## [IK1203 Network and Communication Project](https://github.com/danaghafour/IK1203)
 
