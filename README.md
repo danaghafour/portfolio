@@ -7,7 +7,7 @@ This section outlines the projects I've worked on as part of my ICT studies. Eac
 
 ## [IV1350 Object-Oriented Design Project](https://github.com/danaghafour/iv1350)
 
-The course involved developing a single object-oriented program, reported in five different seminars, with each focusing on a distinct aspect of software development. Below is a summary of the project tasks for each seminar and a link to the repository where the project is hosted.
+The course involved developing a single object-oriented program, reported in four different seminars, with each focusing on a distinct aspect of software development. Below is a summary of the project tasks for each seminar and a link to the repository where the project is hosted.
 
 ### Seminar Task 1: Analysis
 - **Summary**: This seminar focused on creating a domain model and a system sequence diagram based on given specifications. It aimed at interpreting and clarifying a given specification by applying established guidelines for analysis.
@@ -22,8 +22,8 @@ The course involved developing a single object-oriented program, reported in fiv
 - **Skills Developed**: Implementing and testing object-oriented software, ensuring the application meets design specifications and functional requirements.
 
 ### Seminar Task 4: Exceptions and Design Patterns
-- **Summary**: The fourth seminar was about implementing exception handling and using design patterns to enhance the system's architecture and design.
-- **Skills Developed**: Applying design patterns for problem-solving, implementing exception handling for robustness, and enhancing software quality and functionality.
+- **Summary**: The fourth seminar was about implementing exception handling and using design patterns to improve the system's architecture and design.
+- **Skills Developed**: Applying design patterns for problem-solving, implementing exception handling for reliability, and improve software quality and functionality.
 
 Each seminar was designed to build on the knowledge from the previous ones, culminating in a comprehensive understanding of object-oriented program development, from analysis through implementation and refinement.
 
