@@ -1,5 +1,5 @@
 # Dana Ghafour
-## ICT Student
+## Student in Information and Communication Technology (CINTE) at KTH, Royal Institute of Technology
 
 # Projects
 
